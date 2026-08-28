@@ -1,0 +1,10 @@
+{
+  "name": "CivicSync AI",
+  "description": "AI-powered civic innovation platform converting citizen voice in Tamil, English, and Tanglish into structured civic challenges, university & industry collaboration matches, and actionable AI solutions.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
